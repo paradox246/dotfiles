@@ -1,0 +1,2 @@
+#!/bin/env bash
+firefox-esr -P default-esr
